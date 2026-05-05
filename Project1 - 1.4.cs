@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             Console.Write("Введите число N(больше нуля): ");
             string N = Console.ReadLine();
 
